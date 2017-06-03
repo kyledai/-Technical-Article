@@ -14,4 +14,5 @@
 下面那圖看起來是有兩條路徑A0,A4<BR>
 所以有兩個I2C SCL跟SDA 連到兩個EEporm N10,N13<BR>
 <BR>
+圖片來源是網上找的線路圖<BR>
 <img src="http://image-store.slidesharecdn.com/7475d807-c11a-4852-b7a0-d32998f72fbe-original.jpeg" width="640"/><BR>

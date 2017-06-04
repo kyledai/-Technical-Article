@@ -69,14 +69,6 @@ NULL是用MACRO定義出來的，如果編譯器裡的NULL定義不一樣，<BR>
 結論就是，C++開始還是儘量用0或nullptr*取代NULL吧。<BR>
 C語言可以使用0 or NULL，因為我在C上常看到別人判斷空指標<BR>
 <BR>
-這樣寫<BR>
-<BR>
-if(ptr)<BR>
-<BR>
-我還是建議這樣寫比較好，雖然上面不是錯的寫法<BR>
-<BR>
-if(ptr==NULL)<BR>
-<BR>
 附上Ptt連結，看Ptt會比較清楚，維基上舉的例子太少會很混淆<BR>
 <BR>
 https://www.ptt.cc/man/C_and_CPP/DD8B/D362/M.1463129574.A.C74.html<BR>
